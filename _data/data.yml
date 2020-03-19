@@ -138,7 +138,11 @@ projects:
     title: Awards
     assignmets:
         - title: Third place award in ISPD-2019 Initial Detailed Routing contest, Apr. 2019
+          link: "#"
+          tagline:
         - title: Third place award in ICCAD-2019 CAD contest - LEF/DEF Based Open-Source Global Router, Nov. 2019
+          link: "#"
+          tagline:
 
 skills:
     title: Skills &amp; Proficiency
