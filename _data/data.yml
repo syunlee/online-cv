@@ -96,17 +96,17 @@ education:
 #        pellentesque eu, pretium quis, sem.
 #          - Bullet point
 #          - Bullet point
-projects:
-    title: Projects
-    intro:
-    assignments:
-      - title: 
-        link:
-        tagline:
-      - title: 
-        link: 
-        tagline: 
-     
+#projects:
+#    title: Projects
+#    intro:
+#    assignments:
+#      - title: 
+#        link:
+#        tagline:
+#      - title: 
+#        link: 
+#        tagline: 
+
 publications:
     title: Publications
     intro: |
@@ -133,6 +133,12 @@ publications:
         link: "#"
         authors: Sunmean Kim, Sung-Yun Lee, Sunghye Park, Seokhyeong Kang
         conference: IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019
+
+awards:
+    title: Awards
+    awards:
+        - title: Third place award in ISPD-2019 Initial Detailed Routing contest, Apr. 2019
+        - title: Third place award in ICCAD-2019 CAD contest: LEF/DEF Based Open-Source Global Router, Nov. 2019
 
 skills:
     title: Skills &amp; Proficiency
