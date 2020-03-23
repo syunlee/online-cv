@@ -136,6 +136,7 @@ publications:
 
 projects:
     title: Awards
+    intro:
     assignmets:
         - title: Third place award in ISPD-2019 Initial Detailed Routing contest, Apr. 2019
           link: "#"
