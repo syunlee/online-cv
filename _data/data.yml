@@ -83,9 +83,9 @@ experiences:
 #        link: 
 #        tagline: 
 
-journals:
+publications:
     title: International Journals
-    intro:
+    intro: |
     papers:
       - title: A Logic Synthesis Methodology for Low-Power Ternary Logic Circuits
         authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
@@ -99,9 +99,9 @@ journals:
         authors: Daeyeon Kim, Sanggi Do, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
         conference: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019"
 
-conferences:
+publications:
     title: International Conferences
-    intro:
+    intro: |
     papers:
       - title: Ternary Logic Synthesis with Modified Quine-McCluskey Algorithm
         authors: Sung-Yun Lee, Sunmean Kim, Seokhyeong Kang
