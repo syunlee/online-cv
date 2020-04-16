@@ -8,13 +8,14 @@ sidebar:
 
     # Profile information
     name: Sung-Yun Lee
-    tagline: M.S.-Ph.D. combined course in CAD & SoC Design Lab.
+    tagline: M.S.-Ph.D. Candidate
+    #combined course in CAD & SoC Design Lab.
     avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: syun.lee@postech.ac.kr
-    phone:
-    website:
+    phone: +82-54-279-2883
+    website: csdl.postech.ac.kr
     linkedin:
     github:
     gitlab:
@@ -51,51 +52,26 @@ career-profile:
       #Donec quam felis, ultricies nec, pellentesque eu.
       #Second paragraph if required.
 education:
-    - degree: BSc in Electrical Engineering
-      university: Pohang University of Science and Technology (POSTECH)
-      time: Mar. 2014 ~ Aug. 2018
     - degree: M.S.-Ph.D. in Electrical Engineering
       university: Pohang University of Science and Technology (POSTECH)
-      time: Sep. 2018 ~ Present
-    
-#experiences:
-#    - role: Lead Developer
-#      time: 2015 - Present
-#      company: Startup Hubs, San Francisco
+      time: 2018 - Present
+      details: |   
+    - degree: B.Sc. in Electrical Engineering
+      university: Pohang University of Science and Technology (POSTECH)
+      time: 2014 - 2018
+      details: |
+      
+      
+experiences:
+    - role: M.S.-Ph.D. candidate
+      time: 2018 - Present
+      company: CAD & SoC Design Lab., Pohang University of Science and Technology (POSTECH)
+      details: "-- Advisor: Prof. Seokhyeong Kang (POSTECH)"
+    - role: BSc in Electrical Engineering
+      time: 2014 - 2018
+      company: Pohang University of Science and Technology (POSTECH)
 #      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#        error sit voluptatem accusantium doloremque laudantium, totam rem
-#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#        architecto beatae vitae dicta sunt explicabo.
-#          - Bullet point
-#          - Bullet point
-#    - role: Senior Software Engineer
-#      time: 2014 - 2015
-#      company: Google, London
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
-#    - role: UI Developer
-#      time: 2012 - 2014
-#      company: Amazon, London
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
+
 #projects:
 #    title: Projects
 #    intro:
@@ -107,23 +83,29 @@ education:
 #        link: 
 #        tagline: 
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+journals:
+    title: International Journals
+    intro:
     papers:
-      - title: Compact Topology-aware Bus Routing for Design Regularity
+      - title: A Logic Synthesis Methodology for Low-Power Ternary Logic Circuits
         link: "#"
-        authors: Daeyeon Kim, Sanggi Do, Sung-Yun Lee, Seokhyeong Kang
-        conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2019
-
+        authors: Sunmean Kim, Sung-Yun Lee, Sunghye Park, Seokhyeong Kang
+        conference: IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2020
+                
       - title: Additive Statistical Leakage Analysis Using Exponential Mixture Model
         link: "#"
         authors: Hyeonjeong Kwon, Sung-Yun Lee, Younghwan Kim, Seokhyeong Kang
-        conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020
+        conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020
+    
+      - title: Compact Topology-aware Bus Routing for Design Regularity
+        link: "#"
+        authors: Daeyeon Kim, Sanggi Do, Sung-Yun Lee, Seokhyeong Kang
+        conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019
 
+conferences:
+    title: International Conferences
+    intro:
+    papers:
       - title: Ternary Logic Synthesis with Modified Quine-McCluskey Algorithm
         link: "#"
         authors: Sung-Yun Lee, Sunmean Kim, Seokhyeong Kang
@@ -134,38 +116,28 @@ publications:
         authors: Sunmean Kim, Sung-Yun Lee, Sunghye Park, Seokhyeong Kang
         conference: IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019
 
-projects:
+awards:
     title: Awards
     intro:
-    assignmets:
+    papers:
         - title: Third place award in ISPD-2019 Initial Detailed Routing contest, Apr. 2019
           link: "#"
-          tagline:
+          authors: Daeyeon Kim, Sung-Yun Lee, Minheok Kweon, Seokhyeong Kang
         - title: Third place award in ICCAD-2019 CAD contest - LEF/DEF Based Open-Source Global Router, Nov. 2019
           link: "#"
-          tagline:
+          authors: Daeyeon Kim, Sung-Yun Lee, Seokhyeong Kang
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Linux
-        level: 90%
 
-      - name: C++/C
-        level: 80%
+      - name: Programming Language (C++/C/Tcl/Python)
 
-      - name: Tcl script
-        level: 80%
-
-      - name: Cadence backend design tool
-        level: 60%
-
-      - name: Synopsys backend design tool
-        level: 55%
+      - name: Electronic Desgin Automation Tools (Cadence/Synopsys)
 
       - name: Verilog HDL
-        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
