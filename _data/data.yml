@@ -76,11 +76,11 @@ experiences:
 
 projects:
     title: Projects
-    intro:
-    assignments:
-      - title: 
+    intro: |
+    assignments: .
+      - title: .
         link: "#"
-        tagline:
+        tagline: .
 #      - title: 
 #        link: 
 #        tagline: 
