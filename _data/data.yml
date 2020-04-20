@@ -77,10 +77,10 @@ experiences:
 projects:
     title: Projects
     intro: |
-    assignments: .
-      - title: .
+    assignments: s
+      - title: s
         link: "#"
-        tagline: .
+#        tagline: 
 #      - title: 
 #        link: 
 #        tagline: 
