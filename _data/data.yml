@@ -42,8 +42,8 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: Sung-Yun Lee received the B.S. degree in electrical engineering from the Pohang University of Science and Technology, Pohang, South Korea, in 2018. 
-             He is currently pursuing the M.S.-Ph.D. combined degree with the CAD and SoC Design Laboratory in Pohang University of Science and Technology, Pohang, South Korea. 
+    summary: <strong>Sung-Yun Lee</strong> received the B.S. degree in electrical engineering from the Pohang University of Science and Technology (POSTECH), Pohang, South Korea, in 2018. 
+             He is currently pursuing the M.S.-Ph.D. combined degree with the CAD and SoC Design Laboratory in Pohang University of Science and Technology (POSTECH), Pohang, South Korea. 
              His current research interests include VLSI physical design optimization, machine learning on EDA, and heterogeneous 2.5D IC.
       #Summarise your career here lorem ipsum dolor sit amet, consectetuer
       #adipiscing elit. You can [download this free resume/CV template here]().
@@ -122,23 +122,25 @@ awards:
     intro: |
     
     papers:
-        - title: Third place award in ISPD-2019 Initial Detailed Routing contest, Apr. 2019
-          authors: Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Minheok Kweon, Seokhyeong Kang
+        - title: Third place award in ISPD-2019 Initial Detailed Routing contest, 2019
+          authors: <strong>Sung-Yun Lee</strong>, Daeyeon Kim, Minheok Kweon, Seokhyeong Kang
+          conference: Organized by Cadence
           
-        - title: Third place award in ICCAD-2019 CAD contest - LEF/DEF Based Open-Source Global Router, Nov. 2019
-          authors: Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
+        - title: Third place award in ICCAD-2019 CAD contest - LEF/DEF Based Open-Source Global Router, 2019
+          authors: <strong>Sung-Yun Lee</strong>, Daeyeon Kim, Seokhyeong Kang
+          conference: Organized by Mentor Graphics & University of California San Diego
 
 patents:
-    title: Patent
+    title: Patents
     intro: |
     
     papers:
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
-        authors: Seokhyeong Kang, Sunmean Kim, <strong>Sung-Yun Lee</strong>
+        authors: <strong>Sung-Yun Lee</strong>, Sunmean Kim, Seokhyeong Kang
         conference: US 16/714,583 (Applied)
     
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
-        authors: Seokhyeong Kang, Sunmean Kim, <strong>Sung-Yun Lee</strong>
+        authors: <strong>Sung-Yun Lee</strong>, Sunmean Kim, Seokhyeong Kang
         conference: Korea 10-2018-0173933 (Applied)
 
 skills:
@@ -146,19 +148,22 @@ skills:
     intro: |
     
     papers:
+        - title: Linux
+          conference: Centos, Ubuntu
+          
         - title: Programming Language / Script / HDL
           conference: ― C++, C, Tcl, Python, Verilog
         
         - title: Electronic Design Automation (EDA) Tools
-          authors: CADENCE
+          authors: <strong>CADENCE</strong>
           conference: ― Innovus, Virtuoso, Xcelium
         
         - title:
-          authors: SYNOPSYS
+          authors: <strong>SYNOPSYS</strong>
           conference: ― IC Compiler, PrimeTime, Lib Compiler, Hspice, Design Compiler
           
         - title:
-          authors: ANSYS
+          authors: <strong>ANSYS</strong>
           conference: ― SIwave, Designer SI
         
 
