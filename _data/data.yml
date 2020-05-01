@@ -80,7 +80,7 @@ projects:
     intro: |
     assignments: 
       - title: Physical design (place & route) optimization
-        tagline: Samsung Electronics, Sep. 2018 - Aug. 2020
+        tagline: Samsung Electronics, Sep.2018 - Aug.2020
         
       - title: Wafer-Scale Deep Learning Accelerator Placement
         tagline: 2020 ISPD contest organized by Cerebras, 2020
