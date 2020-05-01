@@ -75,16 +75,24 @@ experiences:
       company: Pohang University of Science and Technology (POSTECH)
       details: |
 
-#projects:
-#    title: Projects
-#    intro: |
-#    assignments: 
-#      - title:
-#        link: "#"
-#        tagline: 
-#      - title: 
-#        link: 
-#        tagline: 
+projects:
+    title: Projects
+    intro: |
+    assignments: 
+      - title: Physical design (place & route) optimization
+        tagline: Samsung Electronics, Sep. 2018 - Aug. 2020
+        
+      - title: Wafer-Scale Deep Learning Accelerator Placement
+        tagline: 2020 ISPD contest organized by Cerebras, 2020
+        
+      - title: LEF/DEF Based Open-Source Global Router
+        tagline: 2019 ICCAD CAD contest organized by Mentor Graphics & University of California San Diego, 2019
+     
+      - title: Initial Detailed Routing Contest
+        tagline: 2019 ISPD contest organized by Cadence, 2019
+        
+      - title: Obstacle Avoiding Topology-aware Bus Router
+        tagline: 2018 ICCAD CAD contest organized by Synopsys Taiwan Co., Ltd., 2018
 
 journals:
     title: International Journals
