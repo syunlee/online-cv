@@ -147,19 +147,19 @@ skills:
     
     papers:
         - title: Programming Language / Script / HDL
-          conference: -- C++, C, Tcl, Python, Verilog
+          conference: ― C++, C, Tcl, Python, Verilog
         
         - title: Electronic Design Automation (EDA) Tools
           authors: CADENCE
-          conference: -- Innovus, Virtuoso, Xcelium
+          conference: ― Innovus, Virtuoso, Xcelium
         
         - title:
           authors: SYNOPSYS
-          conference: -- IC Compiler, PrimeTime, Lib Compiler, Hspice, Design Compiler
+          conference: ― IC Compiler, PrimeTime, Lib Compiler, Hspice, Design Compiler
           
         - title:
           authors: ANSYS
-          conference: -- SIwave, Designer SI
+          conference: ― SIwave, Designer SI
         
 
 footer: >
