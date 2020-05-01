@@ -17,7 +17,7 @@ sidebar:
     phone: +82-54-279-2883
     website: csdl.postech.ac.kr
     linkedin:
-    github:
+    github: syunlee
     gitlab:
     bitbucket:
     twitter:
@@ -65,14 +65,14 @@ education:
       
       
 experiences:
-    - role: M.S.-Ph.D. integrated course in Department of Electrical Engineering
+    - role: M.S.-Ph.D. course in Department of Electrical Engineering
       time: 2018 - Present
-      company: Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH)
+      company: Pohang University of Science and Technology (POSTECH)
       details: "-- CAD & SoC Design Lab. (Advisor: Prof. Seokhyeong Kang)"
       
     - role: BSc in Department of Electrical Engineering
       time: 2014 - 2018
-      company: Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH)
+      company: Pohang University of Science and Technology (POSTECH)
       details: |
 
 projects:
