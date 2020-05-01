@@ -9,7 +9,6 @@ sidebar:
     # Profile information
     name: Sung-Yun Lee
     tagline: M.S.-Ph.D. Candidate
-    #combined course in CAD & SoC Design Lab.
     avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -43,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: <strong>Sung-Yun Lee</strong> received the B.S. degree in electrical engineering from the Pohang University of Science and Technology (POSTECH), Pohang, South Korea, in 2018. 
-             He is currently pursuing the M.S.-Ph.D. combined degree with the CAD and SoC Design Laboratory in Pohang University of Science and Technology (POSTECH), Pohang, South Korea. 
+             He is currently pursuing the M.S.-Ph.D. combined degree with the [CAD and SoC Design Laboratory](http://csdl.postech.ac.kr) in [Pohang University of Science and Technology (POSTECH)](http://postech.ac.kr), Pohang, South Korea. 
              His current research interests include VLSI physical design optimization, machine learning on EDA, and heterogeneous 2.5D IC.
       #Summarise your career here lorem ipsum dolor sit amet, consectetuer
       #adipiscing elit. You can [download this free resume/CV template here]().
@@ -68,7 +67,7 @@ experiences:
     - role: M.S.-Ph.D. course in Department of Electrical Engineering
       time: 2018 - Present
       company: Pohang University of Science and Technology (POSTECH)
-      details: "-- [CAD & SoC Design Lab.](http://csdl.postech.ac.kr) (Advisor: Prof. Seokhyeong Kang)"
+      details: "-- CAD & SoC Design Lab. (Advisor: Prof. Seokhyeong Kang)"
       
     - role: BSc in Department of Electrical Engineering
       time: 2014 - 2018
