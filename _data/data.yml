@@ -110,23 +110,23 @@ conferences:
     
     papers:
       - title: Ternary Logic Synthesis with Modified Quine-McCluskey Algorithm
-        authors: Sung-Yun Lee, Sunmean Kim, Seokhyeong Kang
+        authors: <strong>Sung-Yun Lee</strong>, Sunmean Kim, Seokhyeong Kang
         conference: IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019
         
       - title: Design of Quad-Edge-Triggered Sequential Logic Circuits for Ternary Logic
-        authors: Sunmean Kim, Sung-Yun Lee, Sunghye Park, Seokhyeong Kang
+        authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
         conference: IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019
 
 awards:
-    title: Award
+    title: Awards
     intro: |
     
     papers:
         - title: Third place award in ISPD-2019 Initial Detailed Routing contest, Apr. 2019
-          authors: Daeyeon Kim, Sung-Yun Lee, Minheok Kweon, Seokhyeong Kang
+          authors: Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Minheok Kweon, Seokhyeong Kang
           
         - title: Third place award in ICCAD-2019 CAD contest - LEF/DEF Based Open-Source Global Router, Nov. 2019
-          authors: Daeyeon Kim, Sung-Yun Lee, Seokhyeong Kang
+          authors: Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
 
 skills:
     title: Skills
