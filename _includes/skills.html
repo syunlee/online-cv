@@ -15,7 +15,8 @@
     {{ skills.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
-
+  
+  <ol>
   {% for publication in skills.papers %}
   <div class="item">
       <div class="publication-title">{{ publication.title }}</div>
@@ -23,6 +24,7 @@
       <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
   {% endfor %}
+  </ol>  
 
 </section><!--//section-->
 {% endif %}
