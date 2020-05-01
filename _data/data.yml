@@ -51,6 +51,7 @@ career-profile:
       #penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       #Donec quam felis, ultricies nec, pellentesque eu.
       #Second paragraph if required.
+      
 education:
     - degree: M.S.-Ph.D. in Electrical Engineering
       university: Pohang University of Science and Technology (POSTECH)
@@ -74,12 +75,12 @@ experiences:
       company: Pohang University of Science and Technology (POSTECH)
       details: |
 
-projects:
-    title: Projects
-    intro: |
-    assignments: s
-      - title: s
-        link: "#"
+#projects:
+#    title: Projects
+#    intro: |
+#    assignments: 
+#      - title:
+#        link: "#"
 #        tagline: 
 #      - title: 
 #        link: 
