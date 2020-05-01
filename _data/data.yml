@@ -131,11 +131,11 @@ awards:
     
     papers:
         - title: Third place award in ISPD-2019 Initial Detailed Routing contest, 2019
-          authors: <strong>Sung-Yun Lee</strong>, Daeyeon Kim, Minheok Kweon, Seokhyeong Kang
+          authors: Team PosGRouter: Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Minheok Kweon, Seokhyeong Kang
           conference: Organized by Cadence
           
         - title: Third place award in ICCAD-2019 CAD contest - LEF/DEF Based Open-Source Global Router, 2019
-          authors: <strong>Sung-Yun Lee</strong>, Daeyeon Kim, Seokhyeong Kang
+          authors: Team Kim&Lee: Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
           conference: Organized by Mentor Graphics & University of California San Diego
 
 patents:
