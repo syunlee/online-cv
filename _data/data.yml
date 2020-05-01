@@ -149,7 +149,7 @@ skills:
     
     papers:
         - title: Linux
-          conference: Centos, Ubuntu
+          conference: ― Centos, Ubuntu
           
         - title: Programming Language / Script / HDL
           conference: ― C++, C, Tcl, Python, Verilog
