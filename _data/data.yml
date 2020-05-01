@@ -68,7 +68,7 @@ experiences:
     - role: M.S.-Ph.D. candidate
       time: 2018 - Present
       company: CAD & SoC Design Lab., Pohang University of Science and Technology (POSTECH)
-      details: "-- Advisor: Prof. Seokhyeong Kang (POSTECH)"
+      details: "-- Advisor: Prof. Seokhyeong Kang"
       
     - role: BSc in Electrical Engineering
       time: 2014 - 2018
@@ -147,19 +147,19 @@ skills:
     
     papers:
         - title: Programming Language / Script / HDL
-          conference: C++, C, Tcl, Python, Verilog
+          conference: -- C++, C, Tcl, Python, Verilog
         
         - title: Electronic Design Automation (EDA) Tools
           authors: CADENCE
-          conference: Innovus, Virtuoso, Xcelium
+          conference: -- Innovus, Virtuoso, Xcelium
         
         - title:
           authors: SYNOPSYS
-          conference: IC Compiler, PrimeTime, Lib Compiler, Hspice, Design Compiler
+          conference: -- IC Compiler, PrimeTime, Lib Compiler, Hspice, Design Compiler
           
         - title:
           authors: ANSYS
-          conference: SIwave, Designer SI
+          conference: -- SIwave, Designer SI
         
 
 footer: >
