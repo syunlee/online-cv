@@ -128,19 +128,38 @@ awards:
         - title: Third place award in ICCAD-2019 CAD contest - LEF/DEF Based Open-Source Global Router, Nov. 2019
           authors: Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
 
+patents:
+    title: Patent
+    intro: |
+    
+    papers:
+      - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
+        authors: Seokhyeong Kang, Sunmean Kim, <strong>Sung-Yun Lee</strong>
+        conference: US 16/714,583 (Applied)
+    
+      - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
+        authors: Seokhyeong Kang, Sunmean Kim, <strong>Sung-Yun Lee</strong>
+        conference: Korea 10-2018-0173933 (Applied)
+
 skills:
     title: Skills
     intro: |
     
     papers:
-        - title: Programming Language
-          conference: C++/C/Tcl/Python
+        - title: Programming Language / Script / HDL
+          conference: C++, C, Tcl, Python, Verilog
         
-        - title: EDA Tools
-          conference: Cadence/Synopsys/Ansys
+        - title: Electronic Design Automation (EDA) Tools
+          authors: CADENCE
+          conference: Innovus, Virtuoso, Xcelium
         
-        - title: Hardware Description Language
-          conference: Verilog
+        - title:
+          authors: SYNOPSYS
+          conference: IC Compiler, PrimeTime, Lib Compiler, Hspice, Design Compiler
+          
+        - title:
+          authors: ANSYS
+          conference: SIwave, Designer SI
         
 
 footer: >
