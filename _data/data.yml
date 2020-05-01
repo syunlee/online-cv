@@ -7,12 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sunmean Kim
-    tagline: Ph. D. Candidate
-    avatar: github.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sung-Yun Lee
+    tagline: M.S.-Ph.D. Candidate
+    avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sunmk@unist.ac.kr
+    email: syun.lee@postech.ac.kr
     phone: +82-54-279-2883
     website: csdl.postech.ac.kr
     linkedin: 
@@ -40,15 +40,7 @@ sidebar:
         
       - item: Multi-valued Logic
         link:
-        
-      - item: Ternary Logic Circuits
-        link:
-        
-      - item: Low Power Digital Systems
-        link:
-        
-      - item: In-memory Computing
-        link:
+
         
 career-profile:
     title: Career Profile
