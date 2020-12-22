@@ -141,6 +141,11 @@ awards:
           authors: Team Kim&Lee ― Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
           conference: Organized by Mentor Graphics & University of California San Diego
 
+        - title: Honorable mention in ISPD-2020 contest - Wafer-Scale Deep Learning Accelerator Placement, 2020
+          authors: Minhyuk Kweon, Sunghye Park, Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
+          conference: Organized by Cerebras Systems Inc.
+
+
 patents:
     title: Patents
     intro: |
@@ -148,7 +153,7 @@ patents:
     papers:
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
         authors: <strong>Sung-Yun Lee</strong>, Sunmean Kim, Seokhyeong Kang
-        conference: US 16/714,583 (Applied)  &  Korea 10-2018-0173933 (Applied)
+        conference: US 16/714,583 (Applied)  &  KR 10-2018-0173933 (Registered)
 
 skills:
     title: Skills
