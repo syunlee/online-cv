@@ -77,9 +77,9 @@ experiences:
     - role: Teaching Assistance (TA)
       time: |
       company: Pohang University of Science and Technology (POSTECH)
-      details: "[EECE273] Digital system design (2018)\
-               [EECE276] Electronics & electrical engineering lab I (2019)\
-               [PSEP501] Introduction of semiconductor engineering (2020)\
+      details: "[EECE273] Digital system design (2018)\n
+               [EECE276] Electronics & electrical engineering lab I (2019)\n
+               [PSEP501] Introduction of semiconductor engineering (2020)\n
                [EECE276] Electronics & electrical engineering lab I (2020)"
 
 projects:
@@ -161,7 +161,7 @@ patents:
     papers:
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
         authors: <strong>Sung-Yun Lee</strong>, Sunmean Kim, Seokhyeong Kang
-        conference: US 16/714,583 (Applied)  &  KR 10-2018-0173933 (Registered)
+        conference: US 16/714,583 (Registered)  &  KR 10-2018-0173933 (Registered)
 
 skills:
     title: Skills
@@ -169,20 +169,20 @@ skills:
     
     papers:
         - title: Linux
-          conference: ― Centos, Ubuntu
+          conference: ― CentOS, Ubuntu (server management)
           
         - title: Programming Language / Script / HDL
           conference: ― C++, C, Tcl, Python, Verilog
         
         - title: Electronic Design Automation (EDA) Tools
           authors: <strong>CADENCE</strong>
-          conference: ― Innovus, Virtuoso, Xcelium
+          conference: ― Innovus, Virtuoso, Xcelium, NC verilog
         - title:
           authors: <strong>SYNOPSYS</strong>
           conference: ― IC Compiler, PrimeTime, Lib Compiler, Hspice, Design Compiler
         - title:  
           authors: <strong>ANSYS</strong>
-          conference: ― SIwave, Designer SI
+          conference: ― SIwave, HFSS, Electronic desktop
         
 
 footer: >
