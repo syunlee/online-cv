@@ -77,9 +77,12 @@ experiences:
     - role: Teaching Assistance (TA)
       time: |
       company: Pohang University of Science and Technology (POSTECH)
-      details: "[EECE273] Digital system design (2018)" |
-               "[EECE276] Electronics & electrical engineering lab I (2019)" |
-               "[PSEP501] Introduction of semiconductor engineering (2020)" |
+      details: "[EECE273] Digital system design (2018)"
+      
+               "[EECE276] Electronics & electrical engineering lab I (2019)"
+               
+               "[PSEP501] Introduction of semiconductor engineering (2020)"
+               
                "[EECE276] Electronics & electrical engineering lab I (2020)"
 
 projects:
