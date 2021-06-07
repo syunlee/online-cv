@@ -69,10 +69,18 @@ experiences:
       company: Pohang University of Science and Technology (POSTECH)
       details: "-- CAD & SoC Design Lab. (Advisor: Prof. Seokhyeong Kang)"
       
-    - role: BSc in Department of Electrical Engineering
+    - role: B.Sc. in Department of Electrical Engineering
       time: 2014 - 2018
       company: Pohang University of Science and Technology (POSTECH)
       details: |
+    
+    - role: Teaching Assistance (TA)
+      time: |
+      company: Pohang University of Science and Technology (POSTECH)
+      details: "[EECE273] Digital system design (2018)"
+               "[EECE276] Electronics & electrical engineering lab I (2019)"
+               "[PSEP501] Introduction of semiconductor engineering (2020)"
+               "[EECE276] Electronics & electrical engineering lab I (2020)"
 
 projects:
     title: Projects
