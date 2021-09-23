@@ -94,7 +94,7 @@ projects:
     intro: |
     assignments: 
       - title: Software Systems for AI Semiconductor Design
-        tagline: Institute for Information \& Communication Technology Planning \& Evaluation (IITP), Apr.2021 - Present
+        tagline: Institute for Information & Communication Technology Planning & Evaluation (IITP), Apr.2021 - Present
         
       - title: Block Standard Cell Usage Aware Virtual Netlist Development
         tagline: Samsung Electronics, May.2021 - Present
