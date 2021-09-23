@@ -93,8 +93,14 @@ projects:
     title: Projects
     intro: |
     assignments: 
+      - title: Software Systems for AI Semiconductor Design
+        tagline: Institute for Information \& Communication Technology Planning \& Evaluation (IITP), Apr.2021 - Present
+        
+      - title: Block Standard Cell Usage Aware Virtual Netlist Development
+        tagline: Samsung Electronics, May.2021 - Present
+      
       - title: Physical design (place & route) optimization
-        tagline: Samsung Electronics, Sep.2018 - Aug.2020
+        tagline: Samsung Electronics, Sep.2018 - Present
         
       - title: Wafer-Scale Deep Learning Accelerator Placement
         tagline: 2020 ISPD contest organized by Cerebras, 2020
@@ -131,6 +137,10 @@ conferences:
     intro: |
     
     papers:
+      - title: Signal-Integrity-Aware Interposer Bus Routing in 2.5D Heterogeneous Integration
+        authors: <strong>Sung-Yun Lee</strong>, Daeyeon Kim, Kyungjun Min, Seokhyeong Kang
+        conference: IEEE/ACM Asia and South Pacific Automation Conference (ASP-DAC), 2022
+      
       - title: Machine Learning Framework for Early Routability Predicion with Aritificial Netlist Generator
         authors: Daeyeon Kim, Hyunjeong Kwon, <strong>Sung-Yun Lee</strong>, Seungwon Kim, Mingyu Woo, Seokhyeong Kang
         conference: IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE), 2021
@@ -176,7 +186,7 @@ skills:
     
     papers:
         - title: Linux
-          conference: ― CentOS, Ubuntu (server management)
+          conference: ― Server manager
           
         - title: Programming Language / Script / HDL
           conference: ― C++, C, Tcl, Python, Verilog
@@ -189,7 +199,7 @@ skills:
           conference: ― IC Compiler, PrimeTime, Lib Compiler, Hspice, Design Compiler
         - title:  
           authors: <strong>ANSYS</strong>
-          conference: ― SIwave, HFSS, Electronic desktop
+          conference: ― SIwave, HFSS, AEDT
         
 
 footer: >
