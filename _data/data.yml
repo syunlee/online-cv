@@ -81,27 +81,30 @@ experiences:
       time: |
       company: Pohang University of Science and Technology (POSTECH)
       details: |+
-                -- [EECE273] Digital system design (2018)
+                -- [EECE273] Digital system design (Prof. Younghawn Kim) (2018)
                 
                 
-                -- [EECE276] Electronics & electrical engineering lab I (2019-2020)
+                -- [EECE276] Electronics & electrical engineering lab I (Prof. Seokgyeong Kang) (2019-2020)
                 
                 
-                -- [PSEP501] Introduction of semiconductor engineering (2020)
+                -- [PSEP501] Introduction of semiconductor engineering (Prof. Seokhyeong Kang) (2020)
 
 
 projects:
     title: Projects
     intro: |
     assignments: 
+      - title: Machine Learning Based Electronic Design Automation Software
+        tagline: Samsung Electronics, 2022 - Present
+        
       - title: Software Systems for AI Semiconductor Design
-        tagline: Institute for Information & Communication Technology Planning & Evaluation (IITP), Apr.2021 - Present
+        tagline: Institute for Information & Communication Technology Planning & Evaluation (IITP), 2021 - Present
         
       - title: Block Standard Cell Usage Aware Virtual Netlist Development
-        tagline: Samsung Electronics, May.2021 - Present
+        tagline: Samsung Electronics, 2021
       
       - title: Physical design (place & route) optimization
-        tagline: Samsung Electronics, Sep.2018 - Present
+        tagline: Samsung Electronics, 2018 - Present
         
       - title: Wafer-Scale Deep Learning Accelerator Placement
         tagline: 2020 ISPD contest organized by Cerebras, 2020
@@ -114,6 +117,9 @@ projects:
         
       - title: Obstacle Avoiding Topology-aware Bus Router
         tagline: 2018 ICCAD CAD contest organized by Synopsys Taiwan Co., Ltd., 2018
+      
+      - title: Nano Material Technology Development Program
+        tagline: National Research Foundation of Korea (NRF), 2018
 
 journals:
     title: International Journals
@@ -202,7 +208,7 @@ skills:
           conference: ― Server manager
           
         - title: Programming Language / Script / HDL
-          conference: ― C++, C, Tcl, Python, Verilog
+          conference: ― C++, C, Python, Tcl, Verilog
         
         - title: Electronic Design Automation (EDA) Tools
           authors: <strong>CADENCE</strong>
