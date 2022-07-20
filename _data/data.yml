@@ -200,6 +200,8 @@ awards:
         - title: Best paper award in IEIE SoC Conference, 2019
           authors: Sunghye Park, Sunmean Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
           conference: Organized by The Institute of Electronics and Information Engineers.
+        
+        - title: Republic of Korea National Science and Engineering Scholarship, 2014-2018.
 
 
 patents:
@@ -229,7 +231,7 @@ skills:
     
     papers:
         - title: Linux
-          conference: ― Server manager
+          conference: ― Server manager (CentOS, Ubuntu)
           
         - title: Programming Language / Script / HDL
           conference: ― C++, C, Python, Tcl, Verilog
@@ -239,7 +241,7 @@ skills:
           conference: ― Innovus, Virtuoso, Xcelium, NC verilog
         - title:
           authors: <strong>SYNOPSYS</strong>
-          conference: ― IC Compiler, PrimeTime, Lib Compiler, Hspice, Design Compiler
+          conference: ― IC Compiler II, PrimeTime, Lib Compiler, Hspice, Design Compiler
         - title:  
           authors: <strong>ANSYS</strong>
           conference: ― SIwave, HFSS, AEDT
