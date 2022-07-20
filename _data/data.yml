@@ -32,10 +32,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: VLSI CAD
-        link:
-
-      - item: Physical design optimization
+      - item: VLSI Physical design optimization
         link:
         
       - item: AI in EDA
