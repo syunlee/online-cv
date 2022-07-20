@@ -76,6 +76,21 @@ experiences:
       time: Jul. 2022 - Sep. 2022
       company: Samsung Electronics
       details: |
+      
+    - role: Teaching Assistance (TA)
+      time: |
+      company: Pohang University of Science and Technology (POSTECH)
+      details: |+
+                -- [EECE273] Digital system design (Prof. Younghwan Kim) (2018)
+                
+                
+                -- [EECE276] Electronics & electrical engineering lab I (Prof. Seokgyeong Kang) (2019-2020)
+                
+                
+                -- [PSEP501] Introduction of semiconductor engineering (Prof. Seokhyeong Kang) (2020)
+                
+                
+                -- [EECE667] VLSI Analysis & Design Software (Prof. Seokhyeong Kang) (2021)
     
     - role: B.Sc. course in Department of Electrical Engineering
       time: Mar. 2014 - Aug. 2018
@@ -92,20 +107,7 @@ experiences:
       company: Pohang University of Science and Technology (POSTECH)
       details: "-- Postech Integrated Circuits and Systems Lab. (Advisor: Jae-Yoon Sim)"
     
-    - role: Teaching Assistance (TA)
-      time: |
-      company: Pohang University of Science and Technology (POSTECH)
-      details: |+
-                -- [EECE273] Digital system design (Prof. Younghwan Kim) (2018)
-                
-                
-                -- [EECE276] Electronics & electrical engineering lab I (Prof. Seokgyeong Kang) (2019-2020)
-                
-                
-                -- [PSEP501] Introduction of semiconductor engineering (Prof. Seokhyeong Kang) (2020)
-                
-                
-                -- [EECE667] VLSI Analysis & Design Software (Prof. Seokhyeong Kang) (2021)
+    
 
 
 projects:
