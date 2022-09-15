@@ -145,7 +145,7 @@ journals:
     papers:
       - title: Construction of Realistic Place-and-route Benchmarks for Machine Learning Applications
         authors: Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Kyungjun Min, Seokhyeong Kang
-        conference: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), (in revision)"
+        conference: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022 (to appear)"
         
       - title: A Logic Synthesis Methodology for Low-Power Ternary Logic Circuits
         authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
