@@ -167,19 +167,19 @@ conferences:
     papers:
       - title: Signal-Integrity-Aware Interposer Bus Routing in 2.5D Heterogeneous Integration
         authors: <strong>Sung-Yun Lee</strong>, Daeyeon Kim, Kyungjun Min, Seokhyeong Kang
-        conference: IEEE/ACM Asia and South Pacific Automation Conference (ASP-DAC), 2022
+        conference: "IEEE/ACM Asia and South Pacific Automation Conference (ASP-DAC), 2022"
       
       - title: Machine Learning Framework for Early Routability Predicion with Aritificial Netlist Generator
         authors: Daeyeon Kim, Hyunjeong Kwon, <strong>Sung-Yun Lee</strong>, Seungwon Kim, Mingyu Woo, Seokhyeong Kang
-        conference: IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE), 2021
+        conference: "IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE), 2021"
         
       - title: Ternary Logic Synthesis with Modified Quine-McCluskey Algorithm
         authors: <strong>Sung-Yun Lee</strong>, Sunmean Kim, Seokhyeong Kang
-        conference: IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019
+        conference: "IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019"
         
       - title: Design of Quad-Edge-Triggered Sequential Logic Circuits for Ternary Logic
         authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
-        conference: IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019
+        conference: "IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019"
 
 awards:
     title: Awards
@@ -234,18 +234,18 @@ skills:
         - title: Linux
           conference: ― Server manager (CentOS, Ubuntu)
           
-        - title: Programming Language / Script / HDL
-          conference: ― C++, C, Python, Tcl, Verilog
+        - title: Programming Language
+          conference: ― C++, C, Python, Tcl, Verilog, PyTorch
         
         - title: Electronic Design Automation (EDA) Tools
           authors: <strong>CADENCE</strong>
-          conference: ― Innovus, Virtuoso, Xcelium, NC verilog
+          conference: ― Innovus, Virtuoso, Quantus, Xcelium, NC verilog
         - title:
           authors: <strong>SYNOPSYS</strong>
-          conference: ― Design Compiler, IC Compiler II, PrimeTime, Lib Compiler, Hspice
+          conference: ― Design Compiler, IC Compiler II, PrimeTime, StarRC, Hspice
         - title:  
           authors: <strong>ANSYS</strong>
-          conference: ― SIwave, HFSS, AEDT
+          conference: ― HFSS, SIwave, AEDT, RedHawk
         
 
 footer: >
