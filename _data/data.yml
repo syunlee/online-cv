@@ -165,6 +165,10 @@ conferences:
     intro: |
     
     papers:
+      - title: RL-Legalizer: Reinforcement Learning-based Cell Priority Optimization in Mixehd-Height Standard Cell Legalization
+        authors: <strong>Sung-YUn Lee</strong>, Seonghyeon Park, Daeyeon Kim, Minjae Kim, Tuyen P. Le, Seokhyeong Kang
+        conference: "IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE), 2023"
+      
       - title: Signal-Integrity-Aware Interposer Bus Routing in 2.5D Heterogeneous Integration
         authors: <strong>Sung-Yun Lee</strong>, Daeyeon Kim, Kyungjun Min, Seokhyeong Kang
         conference: "IEEE/ACM Asia and South Pacific Automation Conference (ASP-DAC), 2022"
