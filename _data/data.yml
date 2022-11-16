@@ -165,7 +165,7 @@ conferences:
     intro: |
     
     papers:
-      - title: RL-Legalizer: Reinforcement Learning-based Cell Priority Optimization in Mixehd-Height Standard Cell Legalization
+      - title: "RL-Legalizer/: Reinforcement Learning-based Cell Priority Optimization in Mixehd-Height Standard Cell Legalization"
         authors: <strong>Sung-YUn Lee</strong>, Seonghyeon Park, Daeyeon Kim, Minjae Kim, Tuyen P. Le, Seokhyeong Kang
         conference: "IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE), 2023"
       
