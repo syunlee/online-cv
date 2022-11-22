@@ -124,7 +124,7 @@ projects:
         tagline: Samsung Electronics, 2021 - 2022
         
       - title: Wafer-Scale Deep Learning Accelerator Placement
-        tagline: 2020 ISPD contest organized by Cerebras, 2020
+        tagline: 2020 ISPD contest organized by Cerebras Systems, 2020
         
       - title: LEF/DEF Based Open-Source Global Router
         tagline: 2019 ICCAD CAD contest organized by Mentor Graphics & University of California San Diego, 2019
@@ -192,7 +192,7 @@ awards:
     papers:
         - title: Third place award in ISPD-2019 Initial Detailed Routing contest, 2019
           authors: Team PosGRouter ― Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Minheok Kweon, Seokhyeong Kang
-          conference: Organized by Cadence
+          conference: Organized by Cadence Design Systems
           
         - title: Third place award in ICCAD-2019 CAD contest 'LEF/DEF Based Open-Source Global Router', 2019
           authors: Team Kim&Lee ― Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
@@ -200,7 +200,7 @@ awards:
 
         - title: Honorable mention in ISPD-2020 contest 'Wafer-Scale Deep Learning Accelerator Placement', 2020
           authors: Minhyuk Kweon, Sunghye Park, Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
-          conference: Organized by Cerebras Systems Inc.
+          conference: Organized by Cerebras Systems
           
         - title: Best paper award in IEIE SoC Conference, 2019
           authors: Sunghye Park, Sunmean Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
