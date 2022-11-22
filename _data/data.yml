@@ -116,12 +116,12 @@ projects:
         
       - title: Software Systems for AI Semiconductor Design
         tagline: Institute for Information & Communication Technology Planning & Evaluation (IITP), 2021 - Present
+              
+      - title: Physical design (place & route) optimization
+        tagline: Samsung Electronics, 2018 - Present
         
       - title: Block Standard Cell Usage Aware Virtual Netlist Development
         tagline: Samsung Electronics, 2021 - 2022
-      
-      - title: Physical design (place & route) optimization
-        tagline: Samsung Electronics, 2018 - Present
         
       - title: Wafer-Scale Deep Learning Accelerator Placement
         tagline: 2020 ISPD contest organized by Cerebras, 2020
@@ -130,7 +130,7 @@ projects:
         tagline: 2019 ICCAD CAD contest organized by Mentor Graphics & University of California San Diego, 2019
      
       - title: Initial Detailed Routing Contest
-        tagline: 2019 ISPD contest organized by Cadence, 2019
+        tagline: 2019 ISPD contest organized by Cadence Design Systems, 2019
         
       - title: Obstacle Avoiding Topology-aware Bus Router
         tagline: 2018 ICCAD CAD contest organized by Synopsys Taiwan Co., Ltd., 2018
