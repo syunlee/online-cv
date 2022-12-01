@@ -143,19 +143,19 @@ journals:
     intro: |
     
     papers:
-      - title: Construction of Realistic Place-and-route Benchmarks for Machine Learning Applications
+      - title: "Construction of Realistic Place-and-route Benchmarks for Machine Learning Applications"
         authors: Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Kyungjun Min, Seokhyeong Kang
         conference: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022"
         
-      - title: A Logic Synthesis Methodology for Low-Power Ternary Logic Circuits
+      - title: "A Logic Synthesis Methodology for Low-Power Ternary Logic Circuits"
         authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
         conference: "IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2020"
                 
-      - title: Additive Statistical Leakage Analysis Using Exponential Mixture Model
+      - title: "Additive Statistical Leakage Analysis Using Exponential Mixture Model"
         authors: Hyeonjeong Kwon, <strong>Sung-Yun Lee</strong>, Younghwan Kim, Seokhyeong Kang
         conference: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020"
     
-      - title: Compact Topology-aware Bus Routing for Design Regularity
+      - title: "Compact Topology-aware Bus Routing for Design Regularity"
         authors: Daeyeon Kim, Sanggi Do, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
         conference: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019"
 
@@ -167,21 +167,21 @@ conferences:
     papers:
       - title: "RL-Legalizer: Reinforcement Learning-based Cell Priority Optimization in Mixed-Height Standard Cell Legalization"
         authors: <strong>Sung-Yun Lee</strong>, Seonghyeon Park, Daeyeon Kim, Minjae Kim, Tuyen P. Le, Seokhyeong Kang
-        conference: "IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE), 2023"
+        conference: "IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE), 2023"
       
-      - title: Signal-Integrity-Aware Interposer Bus Routing in 2.5D Heterogeneous Integration
+      - title: "Signal-Integrity-Aware Interposer Bus Routing in 2.5D Heterogeneous Integration"
         authors: <strong>Sung-Yun Lee</strong>, Daeyeon Kim, Kyungjun Min, Seokhyeong Kang
         conference: "IEEE/ACM Asia and South Pacific Automation Conference (ASP-DAC), 2022"
       
-      - title: Machine Learning Framework for Early Routability Predicion with Aritificial Netlist Generator
+      - title: "Machine Learning Framework for Early Routability Predicion with Aritificial Netlist Generator"
         authors: Daeyeon Kim, Hyunjeong Kwon, <strong>Sung-Yun Lee</strong>, Seungwon Kim, Mingyu Woo, Seokhyeong Kang
-        conference: "IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE), 2021"
+        conference: "IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE), 2021"
         
-      - title: Ternary Logic Synthesis with Modified Quine-McCluskey Algorithm
+      - title: "Ternary Logic Synthesis with Modified Quine-McCluskey Algorithm"
         authors: <strong>Sung-Yun Lee</strong>, Sunmean Kim, Seokhyeong Kang
         conference: "IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019"
         
-      - title: Design of Quad-Edge-Triggered Sequential Logic Circuits for Ternary Logic
+      - title: "Design of Quad-Edge-Triggered Sequential Logic Circuits for Ternary Logic"
         authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
         conference: "IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL), 2019"
 
@@ -239,7 +239,7 @@ skills:
           conference: ― Server manager (CentOS, Ubuntu)
           
         - title: Programming Language
-          conference: ― C++, C, Python, Tcl, Verilog, PyTorch
+          conference: ― C/C++, Python, Tcl, Verilog, PyTorch
         
         - title: Electronic Design Automation (EDA) Tools
           authors: <strong>CADENCE</strong>
