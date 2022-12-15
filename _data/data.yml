@@ -64,12 +64,12 @@ education:
       
       
 experiences:
-    - role: M.S.-Ph.D. course in Department of Electrical Engineering
+    - role: Ph.D. Graduate Student Researcher
       time: Sep. 2018 - Present
       company: Pohang University of Science and Technology (POSTECH)
       details: "-- CAD & SoC Design Lab. (Advisor: Seokhyeong Kang)"
       
-    - role: Research internship in Design Technology Team
+    - role: Research Internship in Design Technology Team
       time: Jul. 2022 - Sep. 2022
       company: Samsung Electronics
       details: |
@@ -89,12 +89,12 @@ experiences:
                 
                 -- [EECE667] VLSI Analysis & Design Software (Prof. Seokhyeong Kang) (2021)
     
-    - role: Undergraduate student researcher
+    - role: Undergraduate Student Researcher
       time: Nov. 2017 - Feb. 2018
       company: Pohang University of Science and Technology (POSTECH)
       details: "-- Energy System Lab. (Advisor: Youngjin Kim)"
       
-    - role: Undergraduate student researcher
+    - role: Undergraduate Student Researcher
       time: Dec. 2016 - Feb. 2017
       company: Pohang University of Science and Technology (POSTECH)
       details: "-- Postech Integrated Circuits and Systems Lab. (Advisor: Jae-Yoon Sim)"
