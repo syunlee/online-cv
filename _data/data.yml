@@ -74,7 +74,7 @@ experiences:
       company: Samsung Electronics
       details: |
       
-    - role: Teaching Assistance (TA)
+    - role: Teaching Assistant (TA)
       time: |
       company: Pohang University of Science and Technology (POSTECH)
       details: |+
@@ -88,11 +88,6 @@ experiences:
                 
                 
                 -- [EECE667] VLSI Analysis & Design Software (Prof. Seokhyeong Kang) (2021)
-    
-    - role: B.Sc. course in Department of Electrical Engineering
-      time: Mar. 2014 - Aug. 2018
-      company: Pohang University of Science and Technology (POSTECH)
-      details: |
     
     - role: Undergraduate student researcher
       time: Nov. 2017 - Feb. 2018
@@ -204,7 +199,7 @@ awards:
           
         - title: Best paper award in IEIE SoC Conference, 2019
           authors: Sunghye Park, Sunmean Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
-          conference: Organized by The Institute of Electronics and Information Engineers.
+          conference: Organized by The Institute of Electronics and Information Engineers
         
         #- title: Republic of Korea National Science and Engineering Scholarship, 2014-2018.
 
