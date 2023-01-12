@@ -78,17 +78,18 @@ experiences:
       time: |
       company: Pohang University of Science and Technology (POSTECH)
       details: |+
-                -- [EECE273] Digital system design (Prof. Younghwan Kim) (2018)
+                -- [EECE273] Digital system design (2018)
+                #(Prof. Younghwan Kim)
                 
+                -- [EECE276] Electronics & electrical engineering lab I (2019-2020)
+                # (Prof. Seokhyeong Kang)
                 
-                -- [EECE276] Electronics & electrical engineering lab I (Prof. Seokhyeong Kang) (2019-2020)
+                -- [PSEP501] Introduction of semiconductor engineering (2020)
+                # (Prof. Seokhyeong Kang)
                 
+                -- [EECE667] VLSI Analysis & Design Software (2021)
+                # (Prof. Seokhyeong Kang)
                 
-                -- [PSEP501] Introduction of semiconductor engineering (Prof. Seokhyeong Kang) (2020)
-                
-                
-                -- [EECE667] VLSI Analysis & Design Software (Prof. Seokhyeong Kang) (2021)
-    
     - role: Undergraduate Student Researcher
       time: Nov. 2017 - Feb. 2018
       company: Pohang University of Science and Technology (POSTECH)
