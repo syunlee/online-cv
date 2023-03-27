@@ -89,12 +89,12 @@ experiences:
     - role: Undergraduate Student Researcher
       time: Nov. 2017 - Feb. 2018
       company: Pohang University of Science and Technology (POSTECH)
-      details: "-- Energy System Lab. (Advisor: Youngjin Kim)"
+      details: "-- Energy System Lab."
       
     - role: Undergraduate Student Researcher
       time: Dec. 2016 - Feb. 2017
       company: Pohang University of Science and Technology (POSTECH)
-      details: "-- Postech Integrated Circuits and Systems Lab. (Advisor: Jae-Yoon Sim)"
+      details: "-- Postech Integrated Circuits and Systems Lab."
     
     
 
@@ -206,11 +206,11 @@ patents:
     intro: |
     
     papers:
-      - title: TERNARY LOGIC CIRCUIT DEVICE II
+      - title: TERNARY LOGIC CIRCUIT DEVICE
         authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
         conference: US 17/489,629 (Applied) & KR 10-2021-0055864 (Applied)
         
-      - title: TERNARY LOGIC CIRCUIT DEVICE I
+      - title: TERNARY LOGIC CIRCUIT DEVICE
         authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
         conference: US 17/489,624 (Registered) & KR 10-2021-0055863 (Applied)
       
