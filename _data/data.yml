@@ -183,11 +183,11 @@ awards:
     
     papers:
         - title: Third place award in ISPD-2019 Initial Detailed Routing contest, 2019
-          authors: Team PosGRouter ― Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Minhyuk Kweon, Seokhyeong Kang
+          authors: Team Kim&Lee ― Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Minhyuk Kweon, Seokhyeong Kang
           conference: Organized by Cadence Design Systems
           
-        - title: Third place award in ICCAD-2019 CAD contest 'LEF/DEF Based Open-Source Global Router', 2019
-          authors: Team Kim&Lee ― Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
+        - title: Third place award in ICCAD-2019 CAD contest 'LEF/DEF Based Open-Source Global Router' [(Video)](https://www.youtube.com/watch?v=17uWKTFO3Uk&t=16s), 2019
+          authors: Team PosGRouter ― Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
           conference: Organized by Mentor Graphics & University of California San Diego
 
         - title: Honorable mention in ISPD-2020 contest 'Wafer-Scale Deep Learning Accelerator Placement', 2020
@@ -231,14 +231,14 @@ skills:
           conference: ― Server manager (CentOS, Ubuntu)
           
         - title: Programming Language
-          conference: ― C/C++, Python, Tcl, Verilog, PyTorch
+          conference: ― C/C++, Python, Tcl, Verilog
         
         - title: Electronic Design Automation (EDA) Tools
           authors: <strong>CADENCE</strong>
           conference: ― Innovus, Virtuoso, Quantus, Genus, Xcelium, NC verilog
         - title:
           authors: <strong>SYNOPSYS</strong>
-          conference: ― Design Compiler, IC Compiler II, PrimeTime, StarRC, Hspice
+          conference: ― Design Compiler, IC Compiler II, StarRC, PrimeTime, Hspice
         - title:  
           authors: <strong>ANSYS</strong>
           conference: ― HFSS, SIwave, AEDT, RedHawk
