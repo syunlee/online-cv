@@ -35,6 +35,9 @@ sidebar:
       - item: VLSI physical design optimization
         link:
         
+      - item: Design technology co-optimization
+        link:
+      
       - item: AI in EDA
         link:
 
@@ -42,8 +45,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: <strong>Sung-Yun Lee</strong> received the B.S. degree in electrical engineering from the Pohang University of Science and Technology (POSTECH), Pohang, South Korea, in 2018. 
-             He is currently pursuing the M.S.-Ph.D. combined degree with the [CAD and SoC Design Laboratory](http://csdl.postech.ac.kr) in [Pohang University of Science and Technology (POSTECH)](http://postech.ac.kr), Pohang, South Korea. 
-             His current research interests include VLSI physical design optimization and machine learning & reinforcement learning on EDA.
+             He is currently pursuing the M.S.-Ph.D. combined degree at the [CAD and SoC Design Laboratory](http://csdl.postech.ac.kr) in [Pohang University of Science and Technology (POSTECH)](http://postech.ac.kr), Pohang, South Korea. 
+             His current research interests include VLSI physical design optimization, design technology co-optimization, and machine learning & reinforcement learning on EDA.
       #Summarise your career here lorem ipsum dolor sit amet, consectetuer
       #adipiscing elit. You can [download this free resume/CV template here]().
       #Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -78,13 +81,14 @@ experiences:
       time: |
       company: Pohang University of Science and Technology (POSTECH)
       details: |+
-                -- [EECE273] Digital system design (2018)
-                
-                -- [EECE276] Electronics & electrical engineering lab I (2019-2020)
+                -- [EECE667] VLSI Analysis & Design Software (2021)
                 
                 -- [PSEP501] Introduction of semiconductor engineering (2020)
                 
-                -- [EECE667] VLSI Analysis & Design Software (2021)
+                -- [EECE276] Electronics & electrical engineering lab I (2019-2020)
+                
+                -- [EECE273] Digital system design (2018)
+                
                 
     - role: Undergraduate Student Researcher
       time: Nov. 2017 - Feb. 2018
