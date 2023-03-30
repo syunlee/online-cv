@@ -191,7 +191,7 @@ awards:
           conference: Organized by Cadence Design Systems
           
         - title: Third place award in ICCAD-2019 CAD contest 'LEF/DEF Based Open-Source Global Router', 2019 
-          link: [Video](https://www.youtube.com/watch?v=17uWKTFO3Uk&t=16s)
+          link: https://www.youtube.com/watch?v=17uWKTFO3Uk&t=16s
           authors: Team PosGRouter ― Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
           conference: Organized by Mentor Graphics & University of California San Diego
 
