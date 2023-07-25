@@ -161,6 +161,10 @@ conferences:
     intro: |
     
     papers:
+      - title: "ClusterNet: Routing Congestion Prediction and Optimization using Netlist Clustering and Graph Neural Networks"
+        authors: Kyungjun Min, Seongbin Kwon, <strong>Sung-Yun Lee</strong>, Dohun Kim, Sunghye Park, Seokhyeong Kang
+        conference: "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023"
+      
       - title: "RL-Legalizer: Reinforcement Learning-based Cell Priority Optimization in Mixed-Height Standard Cell Legalization"
         authors: <strong>Sung-Yun Lee</strong>, Seonghyeon Park, Daeyeon Kim, Minjae Kim, Tuyen P. Le, Seokhyeong Kang
         conference: "IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE), 2023"
