@@ -191,7 +191,7 @@ awards:
     
     papers:
         - title: Honorable mention in ISPD-2020 contest 'Wafer-Scale Deep Learning Accelerator Placement', 2020
-          authors: Minhyuk Kweon, Sunghye Park, Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
+          authors: Minhyuk Kweon, Sunghye Park, Jongho Yoon, Daeyeon Kim, <strong>Sung-Yun Lee</strong>, Seokhyeong Kang
           conference: Organized by Cerebras Systems
           
         - title: Third place award in ISPD-2019 contest 'Initial Detailed Routing Contest', 2019
