@@ -93,12 +93,12 @@ experiences:
     - role: Undergraduate Student Researcher
       time: |
       company: Pohang University of Science and Technology (POSTECH)
-      details: 
-               "-- CAD & SoC Design Lab. (Apr. 2018 - Aug. 2018)"
-               |+
-               "-- Energy System Lab. (Nov. 2017 - Feb. 2018)"
+      details: |+
+               -- CAD & SoC Design Lab. (Apr. 2018 - Aug. 2018)
                
-               "-- Postech Integrated Circuits and Systems Lab. (Dec. 2016 - Feb. 2017)"
+               -- Energy System Lab. (Nov. 2017 - Feb. 2018)
+               
+               -- Postech Integrated Circuits and Systems Lab. (Dec. 2016 - Feb. 2017)
       
     
     
