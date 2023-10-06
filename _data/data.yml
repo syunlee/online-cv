@@ -77,6 +77,11 @@ experiences:
       company: Samsung Electronics
       details: |
       
+    - role: Peer Review Experience
+      time: |
+      company: |
+      details: "IEEE Trans. on CAD (2023-)"
+
     - role: Teaching Assistant (TA)
       time: |
       company: Pohang University of Science and Technology (POSTECH)
