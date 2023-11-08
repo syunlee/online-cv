@@ -167,6 +167,10 @@ conferences:
     intro: |
     
     papers:
+      - title: "CTRL-B: Back-End-Of-Line Configuration Pathfinding using Cross-Technology Transferable Reinforcement Learning"
+        authors: <strong>Sung-Yun Lee</strong>, Kyungjun Min, Seokhyeong Kang
+        conference: "IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE), 2024"
+        
       - title: "ClusterNet: Routing Congestion Prediction and Optimization using Netlist Clustering and Graph Neural Networks"
         authors: Kyungjun Min, Seongbin Kwon, <strong>Sung-Yun Lee</strong>, Dohun Kim, Sunghye Park, Seokhyeong Kang
         conference: "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023"
