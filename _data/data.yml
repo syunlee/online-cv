@@ -183,7 +183,7 @@ conferences:
         authors: <strong>Sung-Yun Lee</strong>, Daeyeon Kim, Kyungjun Min, Seokhyeong Kang
         conference: "IEEE/ACM Asia and South Pacific Automation Conference (ASP-DAC), 2022"
       
-      - title: "Machine Learning Framework for Early Routability Predicion with Aritificial Netlist Generator"
+      - title: "Machine Learning Framework for Early Routability Prediction with Artificial Netlist Generator"
         authors: Daeyeon Kim, Hyunjeong Kwon, <strong>Sung-Yun Lee</strong>, Seungwon Kim, Mingyu Woo, Seokhyeong Kang
         conference: "IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE), 2021"
         
@@ -257,7 +257,7 @@ skills:
         
         - title: Electronic Design Automation (EDA) Tools
           authors: <strong>CADENCE</strong>
-          conference: ― Innovus, Virtuoso, Quantus, Genus, Xcelium, NC verilog
+          conference: ― Innovus, Virtuoso, Quantus, Genus, Xcelium, NC Verilog
         - title:
           authors: <strong>SYNOPSYS</strong>
           conference: ― Design Compiler, IC Compiler II, StarRC, PrimeTime, Hspice
