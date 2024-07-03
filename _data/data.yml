@@ -57,7 +57,7 @@ career-profile:
 education:
     - degree: M.S.-Ph.D. in Electrical Engineering
       university: Pohang University of Science and Technology (POSTECH)
-      time: 2018 - Present
+      time: 2018 - 2024
       details: |
       
     - degree: B.Sc. in Electrical Engineering
@@ -68,7 +68,7 @@ education:
       
 experiences:
     - role: Ph.D. Graduate Student Researcher
-      time: Sep. 2018 - Present
+      time: Sep. 2018 - Aug. 2024
       company: Pohang University of Science and Technology (POSTECH)
       details: "-- CAD & SoC Design Lab. (Advisor: Seokhyeong Kang)"
       
@@ -114,10 +114,10 @@ projects:
     intro: |
     assignments: 
       - title: Machine Learning Based Electronic Design Automation Software
-        tagline: Samsung Electronics, 2022 - Present
+        tagline: Samsung Electronics, 2022 - 2024
         
       - title: Software Systems for AI Semiconductor Design
-        tagline: Institute for Information & Communication Technology Planning & Evaluation (IITP), 2021 - Present
+        tagline: Institute for Information & Communication Technology Planning & Evaluation (IITP), 2021 - 2024
               
       - title: Physical design (place & route) optimization
         tagline: Samsung Electronics, 2018 - 2023
@@ -167,6 +167,10 @@ conferences:
     intro: |
     
     papers:
+      - title: "IL-Fill: Timing-Aware Fill Insertion Using Imitation Learning"
+        authors: Jinoh Cho, Seonghyeon Park, Jakang Lee, <strong>Sung-Yun Lee</strong>, Jinmo Ahn, Seokhyeong Kang
+        conference: "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024"
+        
       - title: "CTRL-B: Back-End-Of-Line Configuration Pathfinding using Cross-Technology Transferable Reinforcement Learning"
         authors: <strong>Sung-Yun Lee</strong>, Kyungjun Min, Seokhyeong Kang
         conference: "IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE), 2024"
