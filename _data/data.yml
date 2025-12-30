@@ -67,10 +67,16 @@ education:
       
       
 experiences:
+    - role: Staff Engineer in AI Center
+      time: Jan. 2025 - Current
+      company: Samsung Electronics
+      details: |
+      
     - role: Ph.D. Graduate Student Researcher
       time: Sep. 2018 - Aug. 2024
       company: Pohang University of Science and Technology (POSTECH)
       details: "-- CAD & SoC Design Lab. (Advisor: Seokhyeong Kang)"
+               "-- Dissertation: VLSI Physical Design Optimization using Deep Reinforcement Learning"
       
     - role: Research Internship in Design Technology Team
       time: Jul. 2022 - Sep. 2022
